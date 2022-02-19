@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Class-1</title>
+		<title>H.W-1</title>
 	</head>
 	<body>
 		<marquee>WEB DESIGN</marquee>
